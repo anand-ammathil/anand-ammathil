@@ -1,16 +1,11 @@
-### Hi there 👋
+## Hlooooo :wave:,
 
-<!--
-**anand-ammathil/anand-ammathil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anand-ammathil/anand-ammathil.github.io/master/sup.gif" width=300>
+  <br><br>
+  <samp>
+    I'm a guy with some coding skills. Now working as a software engineer at Groupe Rhinos :office:  based on Dubai :sunny:
+  </samp>
+  <br>
+  <samp>While you are here, why dont you checkout my <a href="http://anand-ammathil.github.io/">Portfolio</a></samp>
+</p>
