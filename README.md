@@ -1,7 +1,7 @@
 ## Hlooooo :wave:,
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anand-ammathil/anand-ammathil.github.io/master/sup.gif" width=300>
+  <img src="https://anand-ammathil.github.io/img/tech/sup.gif" width=300>
   <br><br>
   <samp>
     I'm a guy with some coding skills. Now working as a software engineer at Groupe Rhinos :office:  based on Dubai :sunny:
