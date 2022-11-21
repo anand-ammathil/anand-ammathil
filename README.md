@@ -7,5 +7,5 @@
     I'm a guy with some coding skills. Now working as a Senior Software Engineer at Calo 💚 based on Dubai :sunny:
   </samp>
   <br>
-  <samp>While you are here, why dont you checkout my <a href="http://anand-ammathil.github.io/">Portfolio</a></samp>
+  <samp>While you are here, why dont you checkout my <a href="http://anand-ammathil.github.io/" target="_blank">Portfolio</a></samp>
 </p>
